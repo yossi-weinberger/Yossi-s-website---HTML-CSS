@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/ayw10/hello/src/app"
+		},
+		{
+			"path": "C:/Users/ayw10/hello/src/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Yossi's website"
+	}
+}
